@@ -6,3 +6,5 @@ Here   is  a  growwing  collection  of  resources  and  helpful  commands  to  k
 -  [Git Config](./commands/config.md)
 - [Git Init](./Commands/init.md)  
 - [Git Add](./Commands/add.md)
+-  [Git  Commit](./Commands/Commit.md)  
+-  [Git Remote](./Commands/Remote.md)
