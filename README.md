@@ -11,3 +11,4 @@ Here   is  a  growwing  collection  of  resources  and  helpful  commands  to  k
 -  [Git Push](./Commands/Push.md)
 - [Git  Pull](./Commands/Pull.md)
 - [Git Status](./Commands/Status.md)
+- [Git  Clone](./Commands/Clone.md)
