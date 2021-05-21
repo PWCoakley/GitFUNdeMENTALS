@@ -12,3 +12,8 @@ Here   is  a  growwing  collection  of  resources  and  helpful  commands  to  k
 - [Git  Pull](./Commands/Pull.md)
 - [Git Status](./Commands/Status.md)
 - [Git  Clone](./Commands/Clone.md)
+## External Resources  
+- [MarkDown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+-  [Git Documentation](https://git-scm.com/docs)
+-  [GitIgnore Documentation](https://git-scm.com/docs/gitignore)
+-  [Git Branches](https://git-scm.com/bool/en/v2/git-branching-branches-in-a-nutshell)
