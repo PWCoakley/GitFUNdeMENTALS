@@ -9,3 +9,4 @@ Here   is  a  growwing  collection  of  resources  and  helpful  commands  to  k
 -  [Git  Commit](./Commands/Commit.md)  
 -  [Git Remote](./Commands/Remote.md)
 -  [Git Push](./Commands/Push.md)
+- [Git  Pull](./Commands/Pull.md)
